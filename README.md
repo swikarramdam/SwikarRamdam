@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my code cave.</h1>
+<h1 align="left">Welcome to my code cave.</h1>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="center">⚡ 1% better every commit.</p>
+<p align="left">⚡ 1% better every commit.</p>
 
 # Codewars Badge
 
