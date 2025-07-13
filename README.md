@@ -37,6 +37,10 @@
 
 <p align="center">⚡ 1% better every commit.</p>
 
+# Codewars Badge
+
+<img src="https://www.codewars.com/users/SwikarRamdam/badges/large" />
+
 ###
 
 <div align="center">
